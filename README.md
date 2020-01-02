@@ -1,1 +1,1 @@
-# Module-6 activity CSS
+# Module-6 activity JS
